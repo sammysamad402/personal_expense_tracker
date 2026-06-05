@@ -135,8 +135,8 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Shimaila Shaikh**
+**Abdul Samad Shaikh**
 
-Bachelor of Arts (Psychology, Sociology & English Literature)
+Bachelor of Engineering ( Information Technology)
 
-Aspiring Psychology Researcher | Python Learner | GKS-G Applicant
+Aspiring Researcher | Python Learner 
