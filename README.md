@@ -51,7 +51,6 @@ personal-expense-tracker-python/
 
 ## 📸 Screenshots
 
-Add screenshots of:
 - Main Menu
 <img width="630" height="313" alt="image" src="https://github.com/user-attachments/assets/0ae682ec-208f-40e8-858b-0ab013e7f143" />
 
