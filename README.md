@@ -68,8 +68,8 @@ personal-expense-tracker-python/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-expense-tracker-python.git
-cd personal-expense-tracker-python
+git clone https://github.com/sammysamad402/personal_expense_tracker.git
+cd personal_expense_tracker
 jupyter notebook
 ```
 
