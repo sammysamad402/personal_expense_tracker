@@ -54,10 +54,13 @@ personal-expense-tracker-python/
 Add screenshots of:
 - Main Menu
 <img width="630" height="313" alt="image" src="https://github.com/user-attachments/assets/0ae682ec-208f-40e8-858b-0ab013e7f143" />
+
 - Add Expense
 <img width="602" height="412" alt="image" src="https://github.com/user-attachments/assets/71406531-2034-42c1-a886-d6042bc05107" />
+
 - Expense History
 <img width="554" height="378" alt="image" src="https://github.com/user-attachments/assets/a01c7799-9de4-4e75-9f51-8430571ff0d9" />
+
 - Budget Tracking
 <img width="664" height="392" alt="image" src="https://github.com/user-attachments/assets/a281f888-dcfc-44ab-930d-0a7a9a588cf6" />
 
